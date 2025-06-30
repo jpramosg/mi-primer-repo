@@ -11,4 +11,4 @@
 - Dominar el control de versiones
 - Contribuir a proyectos open source
 - Mejorar mis habilidades de desarrollo colaborativo
-## Nueva sección agreagada localmente
+## Nueva sección agregada localmente
