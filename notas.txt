@@ -1,2 +1,3 @@
 Línea 1: Aprendiendo Git
 Linea 2: Git es un sistema de control de versiones
+Linea 3_ GitHub es una plataforma basada en Git
